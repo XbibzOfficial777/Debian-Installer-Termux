@@ -102,8 +102,8 @@ source ~/.bashrc
 ```
 
 **Visual Guide:**  
-![Error Fix Step 1](https://raw.githubusercontent.com/XbibzOfficial777/Debian-Installer-Termux/refs/heads/main/docs/Screenshot_2026-02-09-20-23-22-594_com.termux-edit.jpg)  
-![Error Fix Step 2](https://raw.githubusercontent.com/XbibzOfficial777/Debian-Installer-Termux/refs/heads/main/docs/Screenshot_2026-02-09-20-24-05-540_com.termux-edit.jpg)
+![Error Fix Step 1](docs/docs/Screenshot_2026-02-09-20-23-22-594_com.termux-edit.jpg)  
+![Error Fix Step 2](docs/docs/Screenshot_2026-02-09-20-24-05-540_com.termux-edit.jpg)
 
 ---
 
